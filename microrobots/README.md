@@ -9,7 +9,7 @@ Añadidos Login y registro y conexion a la base de datos.
 
 #Dia 17 
 
-Añadido el sistema de juego en PHP 
+Añadido el sistema de juego 
 
 #Dia 18
 
