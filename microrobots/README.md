@@ -13,5 +13,7 @@ Añadido el sistema de juego en PHP
 
 #Dia 18
 
-Diseño bascio de toda la web.
+Diseño basico de toda la web.
+
+#usuario y contraseña: test y test para probar.
 
